@@ -1,0 +1,3 @@
+this file is created for clone testing when we dump it in our offline mode especially in STS.
+Pure practicing of git work
+trying to clone now................!
